@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ALC 4 Phase1</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="about">ABOUT ALC</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="name">"Parfait Tokponnon"</string>
+    <string name="track">"Track                    \t:  Android"</string>
+    <string name="country">"Country                \t: Benin"</string>
+    <string name="email">"Email                    \t:  parfait.tokponnon@gmail.com"</string>
+    <string name="phone">"Phone Number   \t: +22960000047"</string>
+    <string name="notification_error_ssl_cert_invalid">Certificate Warning</string>
+</resources>
